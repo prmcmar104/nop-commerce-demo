@@ -1,0 +1,5 @@
+com\nopcommerce\demo\testbase\TestBase.class
+com\nopcommerce\demo\testsuite\RegisterPageTest.class
+com\nopcommerce\demo\testsuite\LoginPageTest.class
+com\nopcommerce\demo\testsuite\ComputerPageTest.class
+resources\testdata\TestData.class

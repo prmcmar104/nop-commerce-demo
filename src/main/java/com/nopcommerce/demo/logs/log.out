@@ -1,0 +1,105 @@
+2024-06-21 15:06:803 INFO  HomePage :34 - Chrome Browser Launch.......
+2024-06-21 15:06:895 INFO  HomePage :55 - Click on loginLink : Log in
+2024-06-21 15:06:253 INFO  HomePage :49 - Get welcomeText : Welcome, Please Sign In!
+2024-06-21 15:06:975 INFO  HomePage :34 - Chrome Browser Launch.......
+2024-06-21 15:06:08 INFO  HomePage :55 - Click on loginLink : Log in
+2024-06-21 15:06:885 INFO  HomePage :58 - Enter EmailId 'prime123@gmail.com' to email field : 
+2024-06-21 15:06:975 INFO  HomePage :67 - Enter Password 'prime123' to password field : 
+2024-06-21 15:06:241 INFO  HomePage :75 - Click on loginButton
+2024-06-21 15:06:292 INFO  HomePage :82 - Get errorMessage : Login was unsuccessful. Please correct the errors and try again.
+No customer account found
+2024-06-21 15:06:714 INFO  HomePage :34 - Chrome Browser Launch.......
+2024-06-21 15:06:744 INFO  HomePage :55 - Click on loginLink : Log in
+2024-06-21 15:06:608 INFO  HomePage :58 - Enter EmailId 'NnZUX@gmail.com' to email field : 
+2024-06-21 15:06:698 INFO  HomePage :67 - Enter Password 'Prime123' to password field : 
+2024-06-21 15:06:960 INFO  HomePage :75 - Click on loginButton
+2024-06-21 15:06:160 INFO  HomePage :34 - Chrome Browser Launch.......
+2024-06-21 15:06:221 INFO  HomePage :55 - Click on loginLink : Log in
+2024-06-21 15:06:105 INFO  HomePage :58 - Enter EmailId 'NnZUX@gmail.com' to email field : 
+2024-06-21 15:06:198 INFO  HomePage :67 - Enter Password 'Prime123' to password field : 
+2024-06-21 15:06:460 INFO  HomePage :75 - Click on loginButton
+2024-06-21 15:06:342 INFO  HomePage :34 - Chrome Browser Launch.......
+2024-06-21 15:06:433 INFO  HomePage :110 - Click on 'Computers' tab
+2024-06-21 15:06:892 INFO  HomePage :40 - Get pageTitle text : Computers
+2024-06-21 15:06:460 INFO  HomePage :34 - Chrome Browser Launch.......
+2024-06-21 15:06:467 INFO  HomePage :110 - Click on 'Computers' tab
+2024-06-21 15:06:423 INFO  HomePage :49 - Click on 'Desktops' link
+2024-06-21 15:06:894 INFO  HomePage :48 - Get pageTitle text Desktops
+2024-06-21 15:06:311 INFO  HomePage :34 - Chrome Browser Launch.......
+2024-06-21 15:06:932 INFO  HomePage :110 - Click on 'Computers' tab
+2024-06-21 15:06:900 INFO  HomePage :49 - Click on 'Desktops' link
+2024-06-21 15:06:354 INFO  HomePage :71 - Click on product 'Build your own computer' : Build your own computer
+2024-06-21 15:06:923 INFO  HomePage :72 - Select processor '2.2 GHz Intel Pentium Dual-Core E2200'
+2024-06-21 15:06:987 INFO  HomePage :79 - Select RAM '2 GB'
+2024-06-21 15:06:34 INFO  HomePage :88 - Select HDD '320 GB'
+2024-06-21 15:06:85 INFO  HomePage :100 - Select HDD 'Vista Home [+$50.00]'
+2024-06-21 15:06:133 INFO  HomePage :112 - Select Software '[[ChromeDriver: chrome on windows (b6baf31dc41277e0c3cac1e35deafc06)] -> xpath: //dd[@id='product_attribute_input_5']//li/label]'
+2024-06-21 15:06:181 INFO  HomePage :122 - Click on 'ADD TO CART' Button
+2024-06-21 15:06:499 INFO  HomePage :129 - Get productAdded Message : The product has been added to your shopping cart
+2024-06-21 15:06:920 INFO  HomePage :34 - Chrome Browser Launch.......
+2024-06-21 15:06:874 INFO  HomePage :110 - Click on 'Computers' tab
+2024-06-21 15:06:298 INFO  HomePage :49 - Click on 'Desktops' link
+2024-06-21 15:06:760 INFO  HomePage :71 - Click on product 'Build your own computer' : Build your own computer
+2024-06-21 15:06:228 INFO  HomePage :72 - Select processor '2.5 GHz Intel Pentium Dual-Core E2200 [+$15.00]'
+2024-06-21 15:06:293 INFO  HomePage :79 - Select RAM '4GB [+$20.00]'
+2024-06-21 15:06:347 INFO  HomePage :88 - Select HDD '400 GB [+$100.00]'
+2024-06-21 15:06:404 INFO  HomePage :100 - Select HDD 'Vista Premium [+$60.00]'
+2024-06-21 15:06:461 INFO  HomePage :112 - Select Software '[[ChromeDriver: chrome on windows (9695a6371e225cfdc2280dac78f35551)] -> xpath: //dd[@id='product_attribute_input_5']//li/label]'
+2024-06-21 15:06:501 INFO  HomePage :122 - Click on 'ADD TO CART' Button
+2024-06-21 15:06:861 INFO  HomePage :129 - Get productAdded Message : The product has been added to your shopping cart
+2024-06-21 15:06:248 INFO  HomePage :34 - Chrome Browser Launch.......
+2024-06-21 15:06:276 INFO  HomePage :110 - Click on 'Computers' tab
+2024-06-21 15:06:103 INFO  HomePage :49 - Click on 'Desktops' link
+2024-06-21 15:06:511 INFO  HomePage :71 - Click on product 'Build your own computer' : Build your own computer
+2024-06-21 15:06:06 INFO  HomePage :72 - Select processor '2.5 GHz Intel Pentium Dual-Core E2200 [+$15.00]'
+2024-06-21 15:06:75 INFO  HomePage :79 - Select RAM '8GB [+$60.00]'
+2024-06-21 15:06:119 INFO  HomePage :88 - Select HDD '320 GB'
+2024-06-21 15:06:170 INFO  HomePage :100 - Select HDD 'Vista Home [+$50.00]'
+2024-06-21 15:06:230 INFO  HomePage :112 - Select Software '[[ChromeDriver: chrome on windows (7f5204a1f31ad7eb485b8822966d6685)] -> xpath: //dd[@id='product_attribute_input_5']//li/label]'
+2024-06-21 15:06:274 INFO  HomePage :122 - Click on 'ADD TO CART' Button
+2024-06-21 15:06:570 INFO  HomePage :129 - Get productAdded Message : The product has been added to your shopping cart
+2024-06-21 15:06:177 INFO  HomePage :34 - Chrome Browser Launch.......
+2024-06-21 15:06:187 INFO  HomePage :70 - Click on registerLink : Register
+2024-06-21 15:06:20 INFO  HomePage :88 - Get registerText : Register
+2024-06-21 15:06:415 INFO  HomePage :34 - Chrome Browser Launch.......
+2024-06-21 15:06:438 INFO  HomePage :70 - Click on registerLink : Register
+2024-06-21 15:06:266 INFO  HomePage :156 - Click on 'REGISTER' button
+2024-06-21 15:06:314 INFO  HomePage :167 - Validation message : 'First name is required.' for fieldName 'FirstName'
+2024-06-21 15:06:341 INFO  HomePage :167 - Validation message : 'Last name is required.' for fieldName 'LastName'
+2024-06-21 15:06:373 INFO  HomePage :167 - Validation message : 'Email is required.' for fieldName 'Email'
+2024-06-21 15:06:439 INFO  HomePage :167 - Validation message : 'Password is required.' for fieldName 'ConfirmPassword'
+2024-06-21 15:06:106 INFO  HomePage :34 - Chrome Browser Launch.......
+2024-06-21 15:06:122 INFO  HomePage :70 - Click on registerLink : Register
+2024-06-21 15:06:927 INFO  HomePage :97 - Select 'Male' radio button
+2024-06-21 15:06:21 INFO  HomePage :108 - Enter Firstname : 'prime' to firstName field
+2024-06-21 15:06:78 INFO  HomePage :115 - Enter Lastname : 'test' to lastName field
+2024-06-21 15:06:272 INFO  HomePage :125 - Select day : '22', month : 'February', year : '1980' for DateOfBirth
+2024-06-21 15:06:361 INFO  HomePage :133 - Enter Email : 'YtBSI@gmail.com' to email field
+2024-06-21 15:06:427 INFO  HomePage :140 - Enter Password : 'Prime123' to password field
+2024-06-21 15:06:489 INFO  HomePage :148 - Enter Confirm password : 'Prime123' to confirm password field
+2024-06-21 15:06:970 INFO  HomePage :156 - Click on 'REGISTER' button
+2024-06-21 15:06:19 INFO  HomePage :179 - Get your reg completed text : Your registration completed
+2024-06-21 15:06:20 INFO  HomePage :186 - Click on 'CONTINUE' button
+2024-06-21 15:06:755 INFO  HomePage :34 - Chrome Browser Launch.......
+2024-06-21 15:06:780 INFO  HomePage :55 - Click on loginLink : Log in
+2024-06-21 15:06:599 INFO  HomePage :49 - Get welcomeText : Welcome, Please Sign In!
+2024-06-21 15:06:990 INFO  HomePage :34 - Chrome Browser Launch.......
+2024-06-21 15:06:992 INFO  HomePage :55 - Click on loginLink : Log in
+2024-06-21 15:06:894 INFO  HomePage :58 - Enter EmailId 'prime123@gmail.com' to email field : 
+2024-06-21 15:06:986 INFO  HomePage :67 - Enter Password 'prime123' to password field : 
+2024-06-21 15:06:273 INFO  HomePage :75 - Click on loginButton
+2024-06-21 15:06:321 INFO  HomePage :82 - Get errorMessage : Login was unsuccessful. Please correct the errors and try again.
+No customer account found
+2024-06-21 15:06:700 INFO  HomePage :34 - Chrome Browser Launch.......
+2024-06-21 15:06:724 INFO  HomePage :55 - Click on loginLink : Log in
+2024-06-21 15:06:600 INFO  HomePage :58 - Enter EmailId 'YtBSI@gmail.com' to email field : 
+2024-06-21 15:06:688 INFO  HomePage :67 - Enter Password 'Prime123' to password field : 
+2024-06-21 15:06:215 INFO  HomePage :75 - Click on loginButton
+2024-06-21 15:06:269 INFO  HomePage :93 - Checking is logOutLink displayed : Log out
+2024-06-21 15:06:734 INFO  HomePage :34 - Chrome Browser Launch.......
+2024-06-21 15:06:820 INFO  HomePage :55 - Click on loginLink : Log in
+2024-06-21 15:06:307 INFO  HomePage :58 - Enter EmailId 'YtBSI@gmail.com' to email field : 
+2024-06-21 15:06:395 INFO  HomePage :67 - Enter Password 'Prime123' to password field : 
+2024-06-21 15:06:937 INFO  HomePage :75 - Click on loginButton
+2024-06-21 15:06:982 INFO  HomePage :84 - Click on logOutLink : Log out
+2024-06-21 15:06:582 INFO  HomePage :63 - Checking is loginLink displayed : Log in
